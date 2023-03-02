@@ -1,4 +1,4 @@
 # Instagram-Clone
 Using HTML, CSS
 
-[Preview](https://vh2iy8.csb.app/)
+[Website Preview](https://vh2iy8.csb.app/)
