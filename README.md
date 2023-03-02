@@ -1,2 +1,2 @@
 # Instagram-Clone
-Instagram Clone
+Using HTML, CSS
